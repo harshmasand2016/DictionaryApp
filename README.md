@@ -9,7 +9,7 @@ your UI dreams come to life with the stroke of your code brush.
 
 Check out this cool GIF of the app in action! 🎬
 
-<img src="(https://github.com/harshmasand2016/DictionaryApp/blob/master/assets/Demo.gif)" alt="Dictionary App"/>
+<img src="([https://github.com/harshmasand2016/DictionaryApp/blob/master/assets/Demo.gif](https://github.com/harshmasand2016/DictionaryApp/blob/master/Demo.gif))" alt="Dictionary App"/>
 
 ## TODO
 
