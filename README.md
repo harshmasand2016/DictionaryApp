@@ -5,8 +5,6 @@ Dive into the future of Android UI development with Jetpack Compose, where codin
 your UI dreams come to life with the stroke of your code brush.
 
 
-## Case
-
 ## Demo!
 
 Check out this cool GIF of the app in action! 🎬
