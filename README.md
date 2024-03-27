@@ -9,7 +9,7 @@ your UI dreams come to life with the stroke of your code brush.
 
 Check out this cool GIF of the app in action! 🎬
 
-<img src="https://github.com/im-o/android-compose-haidoc-ui/assets/22957498/0fe800cf-4604-4d47-b922-ce58071f105d" alt="Compose HaiDoc" height="600"/>
+<img src="(https://github.com/harshmasand2016/DictionaryApp/blob/master/assets/Demo.gif)" alt="Dictionary App"/>
 
 ## TODO
 
